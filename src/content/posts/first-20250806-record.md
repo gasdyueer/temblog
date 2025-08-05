@@ -97,7 +97,7 @@ lang: 'zh-CN'
 # 后记
 我终于发现了，不知道是什么原因，本地dev开发的时候需要把astro.config.mjs里的
 
-```mjs
+```
 adapter: netlify(), //本地dev的时候得注释
 ```
 注释掉，然后就能正常显示图片了。要push的时候再取消注释就行了。
