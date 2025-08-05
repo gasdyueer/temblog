@@ -85,3 +85,11 @@ lang: 'zh-CN'
 最后再放一下刚跑好的lunasama,封面也是AI图，嗯。
 
 ![luna好看捏，虽然跑的不咋地](.\first-20250806-record\lunasama.png)
+
+# 音乐推荐
+
+哦对了，这曲子我从期末周听到现在，确实爽。
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1CnKLz1Ez2&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+无内鬼，速听😎。
