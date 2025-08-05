@@ -93,3 +93,12 @@ lang: 'zh-CN'
 <iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1CnKLz1Ez2&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 无内鬼，速听😎。
+
+# 后记
+我终于发现了，不知道是什么原因，本地dev开发的时候需要把astro.config.mjs里的
+
+```mjs
+adapter: netlify(), //本地dev的时候得注释
+```
+注释掉，然后就能正常显示图片了。要push的时候再取消注释就行了。
+谔谔。神必bug。

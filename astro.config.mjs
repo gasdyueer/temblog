@@ -175,5 +175,5 @@ export default defineConfig({
       },
 	},
 
-  adapter: netlify(),
+  adapter: netlify(), //本地dev的时候得注释
 });
