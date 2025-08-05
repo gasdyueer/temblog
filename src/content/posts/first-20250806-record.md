@@ -2,7 +2,7 @@
 title: first-20250806-record
 published: 2025-08-06
 description: '第一篇文章，简单介绍一下建站过程与这一天的record'
-image: '.\first-20250806-record\lunacover.png'
+image: './first-20250806-record/lunacover.png'
 tags: [record,first,luna,aigc,fuwari,2xnz,建站]
 category: 'RECORDs'
 draft: false 
@@ -72,10 +72,10 @@ lang: 'zh-CN'
 
 我看了一遍，只能说确实不错，后边动画确实又唐又帅，闹斯特麻麻这一块。
 
-![塔爹启动](.\first-20250806-record\tadieqidong.png)
+![塔爹启动](./first-20250806-record/tadieqidong.png)
 
 确实不赖吧
-![塔爹登场](.\first-20250806-record\tadiedengchang.png)
+![塔爹登场](./first-20250806-record/tadiedengchang.png)
 
 啊啊啊啊啊啊啊谁懂看到塔爹出场的救赎感 >=<
 
@@ -84,7 +84,7 @@ lang: 'zh-CN'
 
 最后再放一下刚跑好的lunasama,封面也是AI图，嗯。
 
-![luna好看捏，虽然跑的不咋地](.\first-20250806-record\lunasama.png)
+![luna好看捏，虽然跑的不咋地](./first-20250806-record/lunasama.png)
 
 # 音乐推荐
 
