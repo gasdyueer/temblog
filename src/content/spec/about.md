@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+
+博客模板如下，感兴趣可以一起用喵。
 
 ::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+# 2025.08.06
+从5号晚上开始搭，排障到6号凌晨，大致结束网站搭建。
+
+嗯。
