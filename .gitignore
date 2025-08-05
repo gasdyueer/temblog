@@ -28,3 +28,6 @@ pnpm-debug.log*
 package-lock.json
 bun.lockb
 yarn.lock
+
+# Local Netlify folder
+.netlify

@@ -3,7 +3,7 @@ title: Fuwari博客模板的综合指南
 published: 2024-05-01
 description: 这是一个关于Fuwari博客模板的综合指南，涵盖了Markdown的各种功能、视频嵌入、草稿管理和Expressive Code的使用。
 tags: [Markdown, Blogging, Demo, Fuwari, Guide, Example, Video, Customization]
-category: Guides
+category: '写作'
 draft: false
 image: "./cover.jpeg"
 ---
@@ -103,54 +103,56 @@ for i in range(10):
 
 [^1]: 脚注文本在这里。
 
+## 表格
+
 表格可以像这样：
 
-size material color
----
-9 leather brown
-10 hemp canvas natural
-11 glass transparent
+| size | material | color     |
+| :--- | :------- | :-------- |
+| 9    | leather  | brown     |
+| 10   | hemp     | canvas    |
+| 11   | glass    | transparent |
 
 Table: 鞋子、它们的尺寸和材质
 
-（以上是表格的标题。）Pandoc还支持多行表格：
+（以上是表格的标题。）Pandoc 还支持多行表格：
 
----
-keyword text
----
-red Sunsets, apples, and
-other red or reddish
-things.
+| keyword | text                            |
+| :------ | :------------------------------ |
+| red     | Sunsets, apples, and            |
+|         | other red or reddish            |
+|         | things.                         |
+| green   | Leaves, grass, frogs            |
+|         | and other things it's           |
+|         | not easy being.                 |
 
-green Leaves, grass, frogs
-and other things it's
-not easy being.
----
 
-后面是一个水平线。
-
----
 
 这是一个定义列表：
 
 apples
-: Good for making applesauce.
+:   Good for making applesauce.
+
 oranges
-: Citrus!
+:   Citrus!
+
 tomatoes
-: There's no "e" in tomatoe.
+:   There's no "e" in tomatoe.
 
 同样，文本缩进4个空格。（在每个术语/定义对之间留一个空行，以便更宽松。）
 
-这是一个“行块”：
+这是一个“行块”（在标准的 Markdown 中，通常使用引用块 `>` 或列表项来模拟行块的效果。这里我使用引用块来表示，因为这更接近“行块”的含义，或者直接使用列表项）：
 
-| Line one
-| Line too
-| Line tree
+> Line one
+> Line too
+> Line tree
+
 
 图片可以这样指定：
 
+```md
 [//]: # (![example image]&#40;./demo-banner.png "An exemplary image"&#41;)
+```
 
 内联数学方程式像这样：$\omega = d\phi / dt$。显示数学应该独立成行，并用双美元符号括起来：
 
