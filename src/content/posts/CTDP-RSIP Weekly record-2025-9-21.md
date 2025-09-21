@@ -25,7 +25,8 @@ lang: ''
 
 根据[[定式树.canvas|定式树]] 内容进行分析
 
-![./CTDP-RSIP Weekly record-2025-9-21/Pasted image 20250921223017.png]
+![嗯](./CTDP-RSIP-Weekly-record-2025-9-21/Pasted-image-20250921223017.png)
+
 额
 
 - 要睡觉时不带手机上床-&+3
@@ -56,7 +57,8 @@ lang: ''
 
 像上边这个就很不行，得每天去想怎么加一些关键的节点。
 
-![./CTDP-RSIP Weekly record-2025-9-21/Pasted image 20250921224656.png]
+![嗯](./CTDP-RSIP-Weekly-record-2025-9-21/Pasted-image-20250921224656.png)
+
 理论是看着不错的，但是还是需要根据自己的情况去想怎么做。
 
 这个 RSIP 的作用就是为了增多每天的自由意志，就是把过往生活的稳态向着更好的方向迁移。
