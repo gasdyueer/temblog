@@ -2,8 +2,8 @@
 title: CTDP-RSIP Weekly record-2025-9-21
 published: 2025-09-21
 description: ''
-image: ''
-tags: []
+image: './CTDP-RSIP-Weekly-record-2025-9-21/waiNSFWIllustrious_v150-Q8_0_0194_r.png'
+tags: [CTDP, RSIP,record]
 category: 'CR-weekrecord'
 draft: false 
 lang: ''
