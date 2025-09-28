@@ -5,7 +5,7 @@ description: 这是一个关于Fuwari博客模板的综合指南，涵盖了Mark
 tags: [Markdown, Blogging, Demo, Fuwari, Guide, Example, Video, Customization]
 category: '写作'
 draft: false
-image: "./cover.jpeg"
+image: "./guide/cover.jpeg"
 ---
 
 # Fuwari博客模板的综合指南
