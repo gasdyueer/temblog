@@ -2,9 +2,9 @@
 title: CTDP-RSIP-Weekly-record-2025-10-12
 published: 2025-10-12
 description: ''
-image: ''
-tags: []
-category: ''
+image: './CTDP-RSIP-Weekly-record-2025-10-12/tsrmix_v20-Q8_0_0005_cropped.png'
+tags: [CTDP, RSIP,record]
+category: 'CR-weekrecord'
 draft: false 
 lang: ''
 ---
