@@ -2,7 +2,7 @@
 title: 艰难的第一次实习
 published: 2026-03-15
 description: ''
-image: ''
+image: 'src\content\posts\my-hard-intern\ComfyUI_2026-03-06_00002.png'
 tags: []
 category: ''
 draft: false 
